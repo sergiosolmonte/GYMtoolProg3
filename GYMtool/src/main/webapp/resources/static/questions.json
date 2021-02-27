@@ -1,0 +1,93 @@
+[  
+    {  
+        "text":"What has a face and two hands but no arms or legs?",
+        "id":"2",
+        "break_after":true,
+        "required":true,
+        "type":"single-select",
+        "options":[  
+            "a clock",
+            "a dog",
+            "a couch",
+            "a giraffe"
+        ]
+    },
+    {  
+        "text":"What gets wetter and wetter the more it dries?",
+        "id":"3",
+        "required":true,
+        "type":"single-select",
+        "options":[  
+            "a car",
+            "a towel",
+            "a plane",
+            "a television"
+        ]
+    },
+    {  
+        "text":"You throw away the outside and cook the inside. Then you eat the outside and throw away the inside. What did you eat?",
+        "id":"4",
+        "type":"single-select",
+        "options":[  
+            "a cucumber",
+            "an ear of corn",
+            "a watermelon",
+            "cheese"
+        ]
+    },
+    {  
+        "text":"What goes up and down the stairs without moving?",
+        "id":"5",
+        "type":"single-select",
+        "options":[  
+            "a toddler",
+            "an arrow",
+            "towels",
+            "a rug"
+        ]
+    },
+    {  
+        "text":"What can you catch but not throw?",
+        "id":"6",
+        "type":"single-select",
+        "options":[  
+            "a couch",
+            "a cold",
+            "a puppy",
+            "a baseball"
+        ]
+    },
+    {  
+        "text":"I can run but not walk. Wherever I go, thought follows close behind. What am I?",
+        "id":"7",
+        "type":"single-select",
+        "options":[  
+            "a doctor",
+            "a pineapple",
+            "a nose",
+            "pimples"
+        ]
+    },
+    {  
+        "text":"What's black and white and red all over?",
+        "id":"8",
+        "type":"single-select",
+        "options":[  
+            "an embarrased skunk",
+            "a turtle",
+            "a giraffe",
+            "a dog"
+        ]
+    },
+    {  
+        "text":"What goes around the world but stays in a corner?",
+        "id":"9",
+        "type":"single-select",
+        "options":[  
+            "a stamp",
+            "coffee",
+            "a dog",
+            "plants"
+        ]
+    }
+]
