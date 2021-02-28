@@ -28,7 +28,7 @@ Nel caso in cui siate già in possesso di SDK
 Basterà aggiungerlo al progetto o selezionarlo nel menù a tendina.
 
 Procedere come in figura con l’aggiunta:<br />
-<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/aggiungiSDK.PNG" /><br />
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/aggiungiSDK.PNG" width="450" /><br />
 
 Dopo averlo aggiunto, fare applica e OK.<br />
 
