@@ -9,7 +9,7 @@ Quando meaven richiederà il download delle dipendenze, selezionare always downl
 
 Al termine dello scaricamento delle dipendenze, sarà possibile configurare l’SDK e  il web-server su cui far girare il progetto (nel nostro caso è stato utilizzato Glassfish5)
 
-**Installazione SDK**
+### Installazione SDK 
 
 Clicciamo su File -> Project Structure come in figura
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/projectStructure.PNG" align="left"/>
@@ -21,7 +21,7 @@ Notiamo che non c’è nessun SDK installato sulla nostra macchina attuale
 Recarsi alla pagina :
 https://www.oracle.com/it/java/technologies/javase/javase-jdk8-downloads.html
 e scaricare la versione corretta per la macchina in uso.
-Procedere con l'esecuzione e segnarsi la direcotry di installazione.
+Procedere con l'esecuzione e segnarsi la directory di installazione.
 
 Nel caso in cui siate già in possesso di SDK
 Basterà aggiungerlo al progetto o selezionarlo nel menù a tendina.
@@ -34,6 +34,7 @@ Dopo averlo aggiunto, fare applica e OK.
 
 Concedere nuovamente i download nella finestra pop-up in basso a destra ed attendere il completamento delle operazioni.
 
+### Configurazione Web Server
 
 Ora passiamo al web-server locale, abbiamo utilizzato GLassfish5.0.1
 
@@ -68,6 +69,8 @@ Se non viene notificato, recarsi nella finestra deployment, aggiungere artifact 
 **C’è la possibilità che si presenti un errore “Debug Configuration Invalid”, sarà necessario selezionare il tasto FIX come fatto in precedenza per risolvere il problema**
 
 Salvare il tutto con apply e OK. Notiamo la configurazione in alto a destra.
+
+### Configurazione Database
 
 Come ultimo passaggio è necessario installare un server Database. 
 Noi abbiamo utilizzato MariaDB. Il tutorial dell’installazione è presente sul sito ufficiale.
