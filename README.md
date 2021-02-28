@@ -12,8 +12,8 @@ Al termine dello scaricamento delle dipendenze, sarà possibile configurare l’
 ### Installazione SDK 
 
 <div>
-  <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/images/projectStructure.PNG" align="left"/>
-   <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/images/noSDK.PNG" width="450" align="top"/>
+  <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/images/projectStructure.png" align="left"/>
+   <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/images/noSDK.png" width="450" align="top"/>
   <p>
     Clicciamo su File -> Project Structure come in figura<br/>
     Notiamo che non c’è nessun SDK installato sulla nostra macchina attuale<br/>
@@ -27,7 +27,7 @@ Al termine dello scaricamento delle dipendenze, sarà possibile configurare l’
   Basterà aggiungerlo al progetto o selezionarlo nel menù a tendina.
 
   Procedere come in figura con l’aggiunta:<br />
-  <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/images/aggiungiSDK.PNG" width="450" /><br />
+  <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/images/aggiungiSDK.png" width="450" /><br />
 
   Dopo averlo aggiunto, fare applica e OK.<br />
 
@@ -45,25 +45,25 @@ https://javaee.github.io/glassfish/download
 Selezionare la versione più recente, anche in formato web profile e successivamente seguire il README.txt presente nell’archivio per l’istallazione su WIndows e UNIX.
 
 Successivamente procedere con l’aggiunta di una configurazione:<br />
-<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/images/addConfig.PNG" /><br />
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/images/addConfig.png" /><br />
 
 Selezionare il + ed aggiungere un GlassFishServer Local <br />
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/images/selectGlassfish.png" /><br />
 
 Procediamo con la configurazione, configurando Application Server, impostando come glassfish Home la directory estratta dal file .zip di GlassFish (nell’ultima versione la direcotry si chiama GlassFish5)<br />
-<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/images/aggiungiGlassDirectory.PNG" /><br />
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/images/aggiungiGlassDirectory.png" /><br />
 
 Se sono state seguite le istruzioni sul readMe di glassfish, il domain dovrebbe già essere attivo e bisogna solo selezionarlo:<br />
-<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/images/serverdomain.PNG" /><br />
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/images/serverdomain.png" /><br />
 
 Poi è necessario configurare il JRE , che inizialmente sarà su default:<br />
-<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/images/jreDefault.PNG" /><br />
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/images/jreDefault.png" /><br />
 
 Basterà aprire il menù a tendina e selezionare “1.8” che sarebbe quello dell’SDK aggiunto poco fa:<br />
-<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/images/JREselect1.8.PNG" />
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/images/JREselect1.8.png" />
 
 Infine l’ultimo passo è quello di creare un artifact per l’esecuzione. Verrà notificata la sua assenza nella parte bassa di questo menu di configurazione, con IntelliJ sarà necessario cliccare su FIX e scegliere GYMtool war : exploded <br />
-<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/images/selectArtifact.PNG" /><br />
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/images/selectArtifact.png" /><br />
 
 Se non viene notificato, recarsi nella finestra deployment, aggiungere **artifact war: exploded** come in figura:<br />
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/images/addArtifact.png" /><br />
