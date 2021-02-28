@@ -15,8 +15,8 @@ Al termine dello scaricamento delle dipendenze, sarà possibile configurare l’
   <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/projectStructure.PNG" align="left"/>
    <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/noSDK.PNG" width="450" align="top"/>
   <p>
-    Clicciamo su File -> Project Structure come in figura
-    Notiamo che non c’è nessun SDK installato sulla nostra macchina attuale
+    Clicciamo su File -> Project Structure come in figura<br/>
+    Notiamo che non c’è nessun SDK installato sulla nostra macchina attuale<br/>
     Recarsi alla pagina :
     https://www.oracle.com/it/java/technologies/javase/javase-jdk8-downloads.html
     e scaricare la versione corretta per la macchina in uso.
