@@ -65,7 +65,7 @@ Infine l’ultimo passo è quello di creare un artifact per l’esecuzione. Verr
 Se non viene notificato, recarsi nella finestra deployment, aggiungere artifact war: exploded come in figura:
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/addArtifact.png" />
 
-**C’è la possibilità che si presenti un errore “Debug Configuration Invalid”, sarà necessario selezionare il tasto FIX come fatto in precedenza per risolvere il problema
+**C’è la possibilità che si presenti un errore “Debug Configuration Invalid”, sarà necessario selezionare il tasto FIX come fatto in precedenza per risolvere il problema**
 
 Salvare il tutto con apply e OK. Notiamo la configurazione in alto a destra.
 
@@ -84,4 +84,4 @@ Per un primo ed efficace test è presente il DUMP del nostro database in formato
 
 
 
-**Per il correto funzionamento del CDN occorre essere conessi alla rete.
+**Per il correto funzionamento del CDN occorre essere conessi alla rete.**
