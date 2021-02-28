@@ -13,7 +13,7 @@ Al termine dello scaricamento delle dipendenze, sarà possibile configurare l’
 
 <div>
   <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/projectStructure.PNG" align="left"/>
-   <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/noSDK.PNG" width="400" align="top"/>
+   <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/noSDK.PNG" width="450" align="top"/>
   <p>
     Clicciamo su File -> Project Structure come in figura
   Notiamo che non c’è nessun SDK installato sulla nostra macchina attuale
@@ -27,7 +27,7 @@ Al termine dello scaricamento delle dipendenze, sarà possibile configurare l’
 
 
 
-
+</br>
 Nel caso in cui siate già in possesso di SDK
 Basterà aggiungerlo al progetto o selezionarlo nel menù a tendina.
 
