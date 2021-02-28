@@ -27,11 +27,10 @@ Procedere con l'esecuzione e segnarsi la directory di installazione.
 Nel caso in cui siate già in possesso di SDK
 Basterà aggiungerlo al progetto o selezionarlo nel menù a tendina.
 
-Procedere come in figura con l’aggiunta:
+Procedere come in figura con l’aggiunta:<br />
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/aggiungiSDK.PNG" /><br />
 
-Dopo averlo aggiunto, fare applica e OK.
-<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/sdkAggiunto.png" /><br />
+Dopo averlo aggiunto, fare applica e OK.<br />
 
 Concedere nuovamente i download nella finestra pop-up in basso a destra ed attendere il completamento delle operazioni.
 
@@ -43,28 +42,28 @@ https://javaee.github.io/glassfish/download
 
 Selezionare la versione più recente, anche in formato web profile e successivamente seguire il README.txt presente nell’archivio per l’istallazione su WIndows e UNIX.
 
-Successivamente procedere con l’aggiunta di una configurazione:
+Successivamente procedere con l’aggiunta di una configurazione:<br />
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/addConfig.PNG" /><br />
 
-Selezionare il + ed aggiungere un GlassFishServer Local
+Selezionare il + ed aggiungere un GlassFishServer Local <br />
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/selectGlassfish.png" /><br />
 
-Procediamo con la configurazione, configurando Application Server, impostando come glassfish Home la directory estratta dal file .zip di GlassFish nell’’ultima versione la direcotry si chiama GlassFish5)
+Procediamo con la configurazione, configurando Application Server, impostando come glassfish Home la directory estratta dal file .zip di GlassFish nell’’ultima versione la direcotry si chiama GlassFish5)<br />
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/aggiungiGlassDirectory.PNG" /><br />
 
-Se sono state seguite le istruzioni sul readMe di glassfish, il domain dovrebbe già essere attivo e bisogna solo selezionarlo:
+Se sono state seguite le istruzioni sul readMe di glassfish, il domain dovrebbe già essere attivo e bisogna solo selezionarlo:<br />
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/serverdomain.PNG" /><br />
 
-Poi è necessario configurare il JRE , che inizialmente sarà su default:
+Poi è necessario configurare il JRE , che inizialmente sarà su default:<br />
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/jreDefault.PNG" /><br />
 
-Basterà aprire il menù a tendina e selezionare “1.8” che sarebbe quello dell’SDK aggiunto poco fa.:
+Basterà aprire il menù a tendina e selezionare “1.8” che sarebbe quello dell’SDK aggiunto poco fa:<br />
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/JREselect1.8.PNG" />
 
-Infine l’ultimo passo è quello di creare un artifact per l’esecuzione. Verrà notificata la sua assenza nella parte bassa di questo menu di configurazione, con IntelliJ sarà necessario cliccare su FIX e scegliere GYMtool war : exploded
+Infine l’ultimo passo è quello di creare un artifact per l’esecuzione. Verrà notificata la sua assenza nella parte bassa di questo menu di configurazione, con IntelliJ sarà necessario cliccare su FIX e scegliere GYMtool war : exploded <br />
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/selectArtifact.PNG" /><br />
 
-Se non viene notificato, recarsi nella finestra deployment, aggiungere artifact war: exploded come in figura:
+Se non viene notificato, recarsi nella finestra deployment, aggiungere **artifact war: exploded** come in figura:<br />
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/addArtifact.png" /><br />
 
 **C’è la possibilità che si presenti un errore “Debug Configuration Invalid”, sarà necessario selezionare il tasto FIX come fatto in precedenza per risolvere il problema**
