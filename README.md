@@ -57,7 +57,7 @@ Successivamente procedere con l’aggiunta di una configurazione:<br />
 Selezionare il + ed aggiungere un GlassFishServer Local <br />
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/selectGlassfish.png" /><br />
 
-Procediamo con la configurazione, configurando Application Server, impostando come glassfish Home la directory estratta dal file .zip di GlassFish nell’ultima versione la direcotry si chiama GlassFish5)<br />
+Procediamo con la configurazione, configurando Application Server, impostando come glassfish Home la directory estratta dal file .zip di GlassFish (nell’ultima versione la direcotry si chiama GlassFish5)<br />
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/aggiungiGlassDirectory.PNG" /><br />
 
 Se sono state seguite le istruzioni sul readMe di glassfish, il domain dovrebbe già essere attivo e bisogna solo selezionarlo:<br />
