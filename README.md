@@ -27,10 +27,10 @@ Nel caso in cui siate già in possesso di SDK
 Basterà aggiungerlo al progetto o selezionarlo nel menù a tendina.
 
 Procedere come in figura con l’aggiunta:
-aggiungiSDK.png
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/aggiungiSDK.PNG" />
 
 Dopo averlo aggiunto, fare applica e OK.
-sdkAggiunto.png
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/sdkAggiunto.PNG" />
 
 Concedere nuovamente i download nella finestra pop-up in basso a destra ed attendere il completamento delle operazioni.
 
@@ -42,30 +42,30 @@ https://javaee.github.io/glassfish/download
 Selezionare la versione più recente, anche in formato web profile e successivamente seguire il README.txt presente nell’archivio per l’istallazione su WIndows e UNIX.
 
 Successivamente procedere con l’aggiunta di una configurazione:
-addConf.png
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/addConfig.PNG" />
 
 Selezionare il + ed aggiungere un GlassFishServer Local
-selectGlass.png
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/selectGlassfish.PNG" />
 
 Procediamo con la configurazione, configurando Application Server, impostando come glassfish Home la directory estratta dal file .zip di GlassFish nell’’ultima versione la direcotry si chiama GlassFish5)
-AggiuntaGlassDirectory.png
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/aggiungiGlassDirectory.PNG" />
 
 Se sono state seguite le istruzioni sul readMe di glassfish, il domain dovrebbe già essere attivo e bisogna solo selezionarlo:
-serverdomain.png
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/serverdomain.PNG" />
 
 Poi è necessario configurare il JRE , che inizialmente sarà su default:
-JREDefault.png
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/jreDefault.PNG" />
 
 Basterà aprire il menù a tendina e selezionare “1.8” che sarebbe quello dell’SDK aggiunto poco fa.:
-JRE1.8.png
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/JRE1.8.PNG" />
 
 Infine l’ultimo passo è quello di creare un artifact per l’esecuzione. Verrà notificata la sua assenza nella parte bassa di questo menu di configurazione, con IntelliJ sarà necessario cliccare su FIX e scegliere GYMtool war : exploded
-selectArtifact.png
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/selectArtifact.PNG" />
 
 Se non viene notificato, recarsi nella finestra deployment, aggiungere artifact war: exploded come in figura:
-addArtifact
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/addArtifact.PNG" />
 
-//C’è la possibilità che si presenti un errore “Debug Configuration Invalid”, sarà necessario //selezionare il tasto FIX come fatto in precedenza per risolvere il problema
+**C’è la possibilità che si presenti un errore “Debug Configuration Invalid”, sarà necessario selezionare il tasto FIX come fatto in precedenza per risolvere il problema
 
 Salvare il tutto con apply e OK. Notiamo la configurazione in alto a destra.
 
