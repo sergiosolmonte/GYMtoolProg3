@@ -46,7 +46,7 @@ Successivamente procedere con l’aggiunta di una configurazione:
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/addConfig.PNG" />
 
 Selezionare il + ed aggiungere un GlassFishServer Local
-<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/selectGlassfish.PNG" />
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/selectGlassfish.png" />
 
 Procediamo con la configurazione, configurando Application Server, impostando come glassfish Home la directory estratta dal file .zip di GlassFish nell’’ultima versione la direcotry si chiama GlassFish5)
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/aggiungiGlassDirectory.PNG" />
