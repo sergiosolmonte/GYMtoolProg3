@@ -16,18 +16,15 @@ Al termine dello scaricamento delle dipendenze, sarà possibile configurare l’
    <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/noSDK.PNG" width="450" align="top"/>
   <p>
     Clicciamo su File -> Project Structure come in figura
-  Notiamo che non c’è nessun SDK installato sulla nostra macchina attuale
-  Recarsi alla pagina :
-  https://www.oracle.com/it/java/technologies/javase/javase-jdk8-downloads.html
-  e scaricare la versione corretta per la macchina in uso.
-  Procedere con l'esecuzione e segnarsi la directory di installazione.
-  </p>
+    Notiamo che non c’è nessun SDK installato sulla nostra macchina attuale
+    Recarsi alla pagina :
+    https://www.oracle.com/it/java/technologies/javase/javase-jdk8-downloads.html
+    e scaricare la versione corretta per la macchina in uso.
+    Procedere con l'esecuzione e segnarsi la directory di installazione.
+    </p>
 </div>
-
-
-
-
-</br>
+<p>
+  
 Nel caso in cui siate già in possesso di SDK
 Basterà aggiungerlo al progetto o selezionarlo nel menù a tendina.
 
@@ -37,6 +34,11 @@ Procedere come in figura con l’aggiunta:<br />
 Dopo averlo aggiunto, fare applica e OK.<br />
 
 Concedere nuovamente i download nella finestra pop-up in basso a destra ed attendere il completamento delle operazioni.
+</p>
+
+
+
+
 
 ### Configurazione Web Server
 
