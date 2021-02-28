@@ -30,7 +30,7 @@ Procedere come in figura con l’aggiunta:
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/aggiungiSDK.PNG" />
 
 Dopo averlo aggiunto, fare applica e OK.
-<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/sdkAggiunto.PNG" />
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/sdkAggiunto.png" />
 
 Concedere nuovamente i download nella finestra pop-up in basso a destra ed attendere il completamento delle operazioni.
 
