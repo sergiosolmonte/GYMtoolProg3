@@ -22,9 +22,7 @@ Al termine dello scaricamento delle dipendenze, sarà possibile configurare l’
     e scaricare la versione corretta per la macchina in uso.
     Procedere con l'esecuzione e segnarsi la directory di installazione.
     </p>
-</div>
-<div>
-  <p>
+   <p>
   
 Nel caso in cui siate già in possesso di SDK
 Basterà aggiungerlo al progetto o selezionarlo nel menù a tendina.
@@ -36,7 +34,9 @@ Dopo averlo aggiunto, fare applica e OK.<br />
 
 Concedere nuovamente i download nella finestra pop-up in basso a destra ed attendere il completamento delle operazioni.
 </p>
+  
 </div>
+
 
 
 
