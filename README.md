@@ -9,7 +9,8 @@ Quando meaven richiederà il download delle dipendenze, selezionare always downl
 
 Al termine dello scaricamento delle dipendenze, sarà possibile configurare l’SDK e  il web-server su cui far girare il progetto (nel nostro caso è stato utilizzato Glassfish5)
 
-Installazione SDK
+**Installazione SDK**
+
 Clicciamo su File -> Project Structure come in figura
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/projectStructure.PNG" align="left"/>
 
