@@ -13,10 +13,9 @@ Al termine dello scaricamento delle dipendenze, sarà possibile configurare l’
 
 
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/projectStructure.PNG" align="left"/> 
-Clicciamo su File -> Project Structure come in figura<br />
-
-Notiamo che non c’è nessun SDK installato sulla nostra macchina attuale<br />
-<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/noSDK.PNG" />
+Clicciamo su File -> Project Structure come in figura
+Notiamo che non c’è nessun SDK installato sulla nostra macchina attuale
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/noSDK.PNG" /><br />
 
 
 Recarsi alla pagina :
