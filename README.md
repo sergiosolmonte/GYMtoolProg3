@@ -57,7 +57,7 @@ Poi è necessario configurare il JRE , che inizialmente sarà su default:
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/jreDefault.PNG" />
 
 Basterà aprire il menù a tendina e selezionare “1.8” che sarebbe quello dell’SDK aggiunto poco fa.:
-<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/JRE1.8.PNG" />
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/JREselect1.8.PNG" />
 
 Infine l’ultimo passo è quello di creare un artifact per l’esecuzione. Verrà notificata la sua assenza nella parte bassa di questo menu di configurazione, con IntelliJ sarà necessario cliccare su FIX e scegliere GYMtool war : exploded
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/selectArtifact.PNG" />
