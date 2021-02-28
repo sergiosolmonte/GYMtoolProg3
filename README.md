@@ -63,7 +63,7 @@ Infine l’ultimo passo è quello di creare un artifact per l’esecuzione. Verr
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/selectArtifact.PNG" />
 
 Se non viene notificato, recarsi nella finestra deployment, aggiungere artifact war: exploded come in figura:
-<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/addArtifact.PNG" />
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/addArtifact.png" />
 
 **C’è la possibilità che si presenti un errore “Debug Configuration Invalid”, sarà necessario selezionare il tasto FIX come fatto in precedenza per risolvere il problema
 
