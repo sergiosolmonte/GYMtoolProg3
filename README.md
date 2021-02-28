@@ -12,9 +12,9 @@ Al termine dello scaricamento delle dipendenze, sarà possibile configurare l’
 ### Installazione SDK 
 
 Clicciamo su File -> Project Structure come in figura
-<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/projectStructure.PNG" align="left"/>
+<img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/projectStructure.PNG" align="left"/> <br>
 
-Notiamo che non c’è nessun SDK installato sulla nostra macchina attuale
+Notiamo che non c’è nessun SDK installato sulla nostra macchina attuale<br>
 <img src="https://github.com/sergiosolmonte/GYMtoolProg3/blob/main/noSDK.PNG" />
 
 
