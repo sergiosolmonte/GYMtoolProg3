@@ -15,10 +15,10 @@
                     <div class="programName">
                         <div style="width:90%;float:left;color:#ff5600"class="list-group-item list-group-item-action">${s.get().getNome()}</div>
                         <div class="pluto"><span style="display:none">${s.get().getID()}</span></div>
-
+                        <div class="rightIcon"><i class="fas fa-arrow-right"></i></div>
                     </div>
                 </a>
-                <a href="#"><div class="rightIcon"><i class="fas fa-arrow-right"></i></div></a>
+               
             </div>
             </c:forEach>
         </div>
